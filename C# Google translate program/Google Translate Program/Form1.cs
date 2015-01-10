@@ -202,6 +202,7 @@ namespace Google_Translate_Program
         private void Form1_Load(object sender, EventArgs e)
         {
             this.Height = 900;
+            //git hut 업데이트를 위한 소스코드 변경
         }
 
         bool[] isFirstTime = { false, true, true, true, true };
