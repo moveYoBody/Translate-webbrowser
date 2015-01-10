@@ -1,0 +1,10 @@
+D:\프로그래밍 산출물 - 개인\140603 - C# google translate program\Google Translate Program\bin\Debug\Google Translate Program.exe
+D:\프로그래밍 산출물 - 개인\140603 - C# google translate program\Google Translate Program\bin\Debug\Google Translate Program.pdb
+D:\프로그래밍 산출물 - 개인\140603 - C# google translate program\Google Translate Program\obj\x86\Debug\Google Translate Program.csprojResolveAssemblyReference.cache
+D:\프로그래밍 산출물 - 개인\140603 - C# google translate program\Google Translate Program\obj\x86\Debug\Google_Translate_Program.Form1.resources
+D:\프로그래밍 산출물 - 개인\140603 - C# google translate program\Google Translate Program\obj\x86\Debug\Google_Translate_Program.Properties.Resources.resources
+D:\프로그래밍 산출물 - 개인\140603 - C# google translate program\Google Translate Program\obj\x86\Debug\Google Translate Program.csproj.GenerateResource.Cache
+D:\프로그래밍 산출물 - 개인\140603 - C# google translate program\Google Translate Program\obj\x86\Debug\Google Translate Program.exe
+D:\프로그래밍 산출물 - 개인\140603 - C# google translate program\Google Translate Program\obj\x86\Debug\Google Translate Program.pdb
+D:\프로그래밍 산출물 - 개인\140630 - C# google translate program\Google Translate Program\obj\x86\Debug\Google Translate Program.exe
+D:\프로그래밍 산출물 - 개인\140630 - C# google translate program\Google Translate Program\obj\x86\Debug\Google Translate Program.pdb
